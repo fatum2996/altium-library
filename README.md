@@ -3,6 +3,7 @@
 ##Content of RCU.SchLib
 + First
 + Second
-##Contetnt of RCU.PcbLib
+
+##Content of RCU.PcbLib
 + First
 + Second
