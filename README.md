@@ -22,6 +22,7 @@
 + Diode
 + DIP8
 + FDS9431A
++ FT232
 + IDC-10
 + IDC-24
 + IDC-26
@@ -178,6 +179,7 @@
 + SOT23-3M
 + SOT23-5
 + SOT223
++ SSOP28
 + T1-1T
 + TO114P990-5_6M
 + USB_A_female
